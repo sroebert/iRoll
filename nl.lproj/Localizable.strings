@@ -1,0 +1,137 @@
+/* 
+   Localizable.strings
+   English
+   iRoll
+
+   Created by Steven Roebert on 15/01/2011.
+   Copyright 2011 Steven Roebert. All rights reserved.
+ */
+
+"ABOUT_TITLE" = "Over iRoll";
+"FINAL_SCORE_PLAYER_HAS_WON_FORMAT" = "%@\nis de winnaar!";
+"GAME_ERROR_RECOGNITION_MESSAGE" = "Niet alle dobbelstenen konden worden herkend. Probeer het nogmaals met alle 5 dobbelstenen in beeld.";
+"GAME_ERROR_RECOGNITION_OK" = "OK";
+"GAME_ERROR_RECOGNITION_TITLE" = "Fout Herkenning";
+"GAME_FINAL_SCORES" = "Eindscores";
+"GAME_KEEP" = "Bewaar";
+"GAME_KEEP_SUGGESTIONS" = "Suggesties";
+"GAME_NO_CAMERA_MESSAGE" = "Er is geen camera aanwezig.";
+"GAME_NO_CAMERA_OK" = "OK";
+"GAME_NO_CAMERA_TITLE" = "Geen camera";
+"GAME_PLAYER" = "Speler";
+"GAME_REROLL_ALL" = "Rol alle dobbelstenen opnieuw";
+"GAME_ROLL" = "worp";
+"GAME_ROLLS" = "worpen";
+"GAME_SAVE_SCORE" = "Sla score op";
+"GAME_TITLE" = "Dobbelstenen Werpen";
+"GAME_ROLL_BUTTON" = "Rol";
+"GAME_SCORE_BUTTON" = "Score";
+"GAME_PROCESSING_IMAGE_LABEL" = "bezig met verwerken...";
+"HIGHSCORES_CLEAR_ALERT_CANCEL" = "NEE";
+"HIGHSCORES_CLEAR_ALERT_CONFIRM" = "JA";
+"HIGHSCORES_CLEAR_ALERT_MESSAGE" = "Weet je zeker dat je alle highscores wilt verwijderen?\nDit kan niet ongedaan gemaakt worden!";
+"HIGHSCORES_CLEAR_ALERT_TITLE" = "Verwijder Alle Highscores";
+"HIGHSCORES_EDITING_CLEAR" = "Leeg";
+"HIGHSCORES_EDITING_DONE" = "Gereed";
+"HIGHSCORES_EDITING_EDIT" = "Wijzig";
+"HIGHSCORES_TITLE" = "Highscores";
+"HIGHSCORES_VIEW_SCORE_TITLE" = "Highscore";
+"MAIN_MENU_BACK_BUTTON" = "Menu";
+"MAIN_MENU_CONTINUE_GAME" = "Doorgaan Met Spel";
+"MAIN_MENU_HIGHSCORES" = "Highscores";
+"MAIN_MENU_NEW_GAME" = "Nieuw Spel";
+"MAIN_MENU_RULES" = "Spelregels";
+"MAIN_MENU_SETTINGS_BUTTON" = "Instellingen";
+"NEW_GAME_CANCEL_BUTTON" = "Annuleer";
+"NEW_GAME_OVERWRITE_CANCEL" = "Annuleer";
+"NEW_GAME_OVERWRITE_CONFIRM" = "Doorgaan";
+"NEW_GAME_OVERWRITE_TITLE" = "Opgeslagen spel wordt verwijderd";
+"NEW_GAME_PLAYER" = "Speler";
+"NEW_GAME_PLAYERS" = "Spelers";
+"NEW_GAME_START_BUTTON" = "Start";
+"NEW_GAME_TITLE" = "Nieuw Spel";
+"RULES_TITLE" = "Spelregels iRoll";
+"SCORES_3OFAKIND" = "3 of a Kind";
+"SCORES_4OFAKIND" = "Carré";
+"SCORES_5OFAKIND" = "5 of a Kind";
+"SCORES_ACES" = "Enen";
+"SCORES_BONUS" = "Bonus";
+"SCORES_CANCEL_BUTTON" = "Annuleer";
+"SCORES_CHANCE" = "Chance";
+"SCORES_FILLED" = "Ingevuld";
+"SCORES_FIVES" = "Vijven";
+"SCORES_FOURS" = "Vieren";
+"SCORES_FULLHOUSE" = "Full House";
+"SCORES_LARGESTRAIGHT" = "Grote Straat";
+"SCORES_LOWER_SECTION" = "Onderste Helft";
+"SCORES_LOWER_SECTION_SUMMARY" = "Samenvatting Onderste Helft";
+"SCORES_SAVE_BUTTON" = "Opslaan";
+"SCORES_SIXES" = "Zessen";
+"SCORES_SMALLSTRAIGHT" = "Kleine Straat";
+"SCORES_SUGGESTIONS" = "Suggesties";
+"SCORES_SUMMARY" = "Samenvatting";
+"SCORES_THREES" = "Drieën";
+"SCORES_TOTAL" = "Totaal";
+"SCORES_TOTAL_LOWER_SECTION" = "Totaal Onderste Helft";
+"SCORES_TOTAL_SCORE" = "Totale Score";
+"SCORES_TOTAL_UPPER_SECTION" = "Totaal Bovenste Helft";
+"SCORES_TWOS" = "Tweeën";
+"SCORES_UPPER_SECTION" = "Bovenste Helft";
+"SCORES_UPPER_SECTION_SUMMARY" = "Samenvatting Bovenste Helft";
+"SCORES_MODE_DEFAULT" = "Standaard";
+"SCORES_MODE_SUGGESTED" = "Suggesties";
+"SETTINGS_SECTION_GENERAL" = "Algemeen";
+"SETTINGS_SECTION_SOUNDS" = "Geluiden";
+"SETTINGS_TITLE" = "Instellingen iRoll";
+"SETTINGS_DONE" = "Gereed";
+"SETTINGS_VALUE_ROLL_SOUND" = "Rol Geluid";
+"SETTINGS_VALUE_SHAKE_SOUND" = "Schud Geluid";
+"SETTINGS_VALUE_SHAKE_TO_ROLL" = "Schud om te Rollen";
+"SETTINGS_VALUE_SHOW_SUGGESTIONS" = "Toon Suggesties";
+"SETTINGS_VALUE_VIBRATE_ON_SHAKE" = "Tril bij Schudden";
+
+"INFO_RULES" = 
+	"<html><head></head><body style=\"font-family:Helvetica;background-color:#D4D4D4;\">
+	<h3 style=\"margin-bottom:5px;\">Doel</h3>
+	<p style=\"margin-top:5px;\">Het doel van het spel is door middel van het maken van combinaties
+		van getallen met geworpen dobbelstenen de hoogste score te behalen.</p>
+	<h3 style=\"margin-bottom:5px;\">Samenvatting</h3>
+	<p style=\"margin-top:5px;\">In elke beurt kan de speler drie keer dobbelstenen werpen. Bij de eerste
+		worp, moet de speler alle vijf de dobbelstenen gooien. Voor de tweede en derde beurt heeft de
+		speler de keuze om bepaalde dobbelstenen vast te houden en daarbij alleen de overige dobbelstenen
+		opnieuw te gooien.</p>
+	<p style=\"margin-top:5px;\">Na de eerste beurt is het mogelijk om een bepaalde score voor een
+		specifieke combinatie van dobbelstenen in te vullen en daarmee de spelers beurt te beïndigen. Na
+		de derde worp, moet de speler een score invullen, waarna de volgende speler aan de beurt is. Dit
+		blijft zich herhalen tot alle spelers de gehele score lijst hebben ingevuld. Als er geen score
+		ingevuld kan worden, moet er bij een van de open scores een 0 worden geplaatst. Aan het einde van
+		het spel heeft de speler met de hoogste score gewonnen.</p>
+	<h3 style=\"margin-bottom:5px;\">Scores</h3>
+	<p style=\"margin-top:5px;\">Het bovenste gedeelte van de score lijst heeft een score voor alle
+		getallen van 1 tot en met 6. Bij deze scores vul je de som van alle gegooide ogen van dit getal
+		in. Dus wanneer je 3-4-5-3-3 hebt gegooid, kun je bijvoorbeeld 9 invullen bij de drieën.</p>
+	<p style=\"margin-top:5px;\">Het onderste gedeelte bestaat uit zeven verschillende scores:
+	<ul style=\"list-style-type:circle; padding-left:17px;\">
+		<li><em>Three of a Kind</em>: Ten minste drie gelijke dobbelstenen. De score is het totaal van alle dobbelstenen.</li>
+		<li><em>Carré</em>: Ten minste vier gelijke dobbelstenen. De score is het totaal van alle dobbelstenen.</li>
+		<li><em>Full House</em>: Drie gelijke, plus twee gelijke dobbelstenen. De score is 25.</li>
+		<li><em>Kleine Straat</em>: Vier opeenvolgende dobbelstenen. De score is 30.</li>
+		<li><em>Grote Straat</em>: Vijf opeenvolgende dobbelstenen. De score is 40.</li>
+		<li><em>Five of a Kind</em>: Vijf gelijke dobbelstenen. De score is 50.</li>
+		<li><em>Chance</em>: Elke mogelijke combinatie. De score is het totaal van alle dobbelstenen.</li>
+	</ul></p>
+	</body></html>";
+"INFO_ABOUT" =
+	"<html><head></head><body style=\font-family:Helvetica;\>
+	<p style=\margin-top:5px;\>This application has been designed and developped by 
+		<a href=\http://roebert.nl\>Steven Roebert</a>. 
+		It is build as a project for the course Game Programming in the Master degree 
+		Intelligent Systems at the University of Amsterdam.</p>
+	<p style=\margin-top:5px;\>This is my first iPhone program. I have had experience with many different 
+		programming languages, but never before worked with Objective C. I want to 
+		thank Standford University, mainly Alan Cannistraro and Josh Shaffer, for creating 
+		great 
+		<a href=\http://deimos3.apple.com/WebObjects/Core.woa/Feed/itunes.stanford.edu.3124430053.03124430055\>lectures</a> 
+		on iPhone programming and making them freely available on iTunes U. Without those 
+		lectures this application would be far from complete.</p>
+	</body></html>";

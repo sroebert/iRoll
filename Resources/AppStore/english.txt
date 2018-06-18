@@ -1,0 +1,14 @@
+iRoll is a dice rolling game in which you will have to maximize your score. The scoring is divided into thirteen different categories. You can either play the game alone, beating your highest score, or you can play together with up to eight persons. 
+
+Features: 
+- 1-8 players (Pass 'n Play) 
+- Highscores 
+- Shake to roll the dice, with shake and rolling sounds 
+- Roll animation 
+- Suggestions for which dice to keep and which scores to choose 
+- Easy to use interface 
+- Multitasking, so you can easily continue were you left off 
+
+As a Game Programming project, the game will give you suggestions on what dice to keep and which scores to fill in. It is also possible to take a picture with the built-in camera (if it exists) and let the application recognize your dice roll automatically. However, the latter feature is not considered stable and only works under good lighting conditions and dice that have good contrast between face and dots colors.
+
+Keywords: roll, dice, yahtzee, game, recognition, shake, score, die, highscore, statistics, iroll, irolldice

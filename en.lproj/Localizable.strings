@@ -1,0 +1,140 @@
+/* 
+   Localizable.strings
+   English
+   iRoll
+
+   Created by Steven Roebert on 15/01/2011.
+   Copyright 2011 Steven Roebert. All rights reserved.
+ */
+
+"ABOUT_TITLE" = "About iRoll";
+"FINAL_SCORE_PLAYER_HAS_WON_FORMAT" = "%@\nhas won!";
+"GAME_ERROR_RECOGNITION_MESSAGE" = "Not all dice have been found during the recognition, please try again using 5 dice.";
+"GAME_ERROR_RECOGNITION_OK" = "OK";
+"GAME_ERROR_RECOGNITION_TITLE" = "Error Recognition";
+"GAME_FINAL_SCORES" = "Final Scores";
+"GAME_KEEP" = "Keep";
+"GAME_KEEP_SUGGESTIONS" = "Suggestions";
+"GAME_NO_CAMERA_MESSAGE" = "There is currently no camera present for taking an image.";
+"GAME_NO_CAMERA_OK" = "OK";
+"GAME_NO_CAMERA_TITLE" = "No Camera";
+"GAME_PLAYER" = "Player";
+"GAME_REROLL_ALL" = "Re-roll all dice";
+"GAME_ROLL" = "roll";
+"GAME_ROLLS" = "rolls";
+"GAME_SAVE_SCORE" = "Save score";
+"GAME_TITLE" = "Rolling Dice";
+"GAME_ROLL_BUTTON" = "Roll";
+"GAME_SCORE_BUTTON" = "Score";
+"GAME_PROCESSING_IMAGE_LABEL" = "processing image...";
+"HIGHSCORES_CLEAR_ALERT_CANCEL" = "NO";
+"HIGHSCORES_CLEAR_ALERT_CONFIRM" = "YES";
+"HIGHSCORES_CLEAR_ALERT_MESSAGE" = "Are you sure you want to clear all highscores?\nThis can not be undone!";
+"HIGHSCORES_CLEAR_ALERT_TITLE" = "Clear Highscores";
+"HIGHSCORES_EDITING_CLEAR" = "Clear All";
+"HIGHSCORES_EDITING_DONE" = "Done";
+"HIGHSCORES_EDITING_EDIT" = "Edit";
+"HIGHSCORES_TITLE" = "Highscores";
+"HIGHSCORES_VIEW_SCORE_TITLE" = "Highscore";
+"MAIN_MENU_BACK_BUTTON" = "Menu";
+"MAIN_MENU_CONTINUE_GAME" = "Continue Game";
+"MAIN_MENU_HIGHSCORES" = "Highscores";
+"MAIN_MENU_NEW_GAME" = "New Game";
+"MAIN_MENU_RULES" = "Rules";
+"MAIN_MENU_SETTINGS_BUTTON" = "Settings";
+"NEW_GAME_CANCEL_BUTTON" = "Cancel";
+"NEW_GAME_OVERWRITE_CANCEL" = "Cancel";
+"NEW_GAME_OVERWRITE_CONFIRM" = "Continue";
+"NEW_GAME_OVERWRITE_TITLE" = "Saved game will be lost";
+"NEW_GAME_PLAYER" = "Player";
+"NEW_GAME_PLAYERS" = "Players";
+"NEW_GAME_START_BUTTON" = "Start";
+"NEW_GAME_TITLE" = "New Game";
+"RULES_TITLE" = "Rules iRoll";
+"SCORES_3OFAKIND" = "3 of a Kind";
+"SCORES_4OFAKIND" = "4 of a Kind";
+"SCORES_5OFAKIND" = "5 of a Kind";
+"SCORES_ACES" = "Aces";
+"SCORES_BONUS" = "Bonus";
+"SCORES_CANCEL_BUTTON" = "Cancel";
+"SCORES_CHANCE" = "Chance";
+"SCORES_FILLED" = "Filled";
+"SCORES_FIVES" = "Fives";
+"SCORES_FOURS" = "Fours";
+"SCORES_FULLHOUSE" = "Full House";
+"SCORES_LARGESTRAIGHT" = "Large Straight";
+"SCORES_LOWER_SECTION" = "Lower Section";
+"SCORES_LOWER_SECTION_SUMMARY" = "Lower Section Summary";
+"SCORES_SAVE_BUTTON" = "Save";
+"SCORES_SIXES" = "Sixes";
+"SCORES_SMALLSTRAIGHT" = "Small Straight";
+"SCORES_SUGGESTIONS" = "Suggestions";
+"SCORES_SUMMARY" = "Summary";
+"SCORES_THREES" = "Threes";
+"SCORES_TOTAL" = "Total";
+"SCORES_TOTAL_LOWER_SECTION" = "Total Lower Section";
+"SCORES_TOTAL_SCORE" = "Total Score";
+"SCORES_TOTAL_UPPER_SECTION" = "Total Upper Section";
+"SCORES_TWOS" = "Twos";
+"SCORES_UPPER_SECTION" = "Upper Section";
+"SCORES_UPPER_SECTION_SUMMARY" = "Upper Section Summary";
+"SCORES_MODE_DEFAULT" = "Default";
+"SCORES_MODE_SUGGESTED" = "Suggested";
+"SETTINGS_SECTION_GENERAL" = "General";
+"SETTINGS_SECTION_SOUNDS" = "Sounds";
+"SETTINGS_TITLE" = "Settings iRoll";
+"SETTINGS_DONE" = "Done";
+"SETTINGS_VALUE_ROLL_SOUND" = "Roll Sound";
+"SETTINGS_VALUE_SHAKE_SOUND" = "Shake Sound";
+"SETTINGS_VALUE_SHAKE_TO_ROLL" = "Shake to Roll";
+"SETTINGS_VALUE_SHOW_SUGGESTIONS" = "Show Suggestions";
+"SETTINGS_VALUE_VIBRATE_ON_SHAKE" = "Vibrate on Shake";
+
+"INFO_RULES" = 
+	"<html><head></head><body style=\"font-family:Helvetica;background-color:#D4D4D4;\">
+	<h3 style=\"margin-bottom:5px;\">Goal</h3>
+	<p style=\"margin-top:5px;\">The main goal of the game is to roll the dice and acquire specific combinations in order
+		to get the highest possible score</p>
+	<h3 style=\"margin-bottom:5px;\">Summary</h3>
+	<p style=\"margin-top:5px;\">Each turn the player can roll the dice 3 times. For the first roll, the player must 
+		roll all 5 dice. For turns 2 and 3, the player can decide to roll all dice or a 
+		subset instead (while keeping the ones you do not roll).</p>
+	<p style=\"margin-top:5px;\">At any time after the first roll, you can fill in a score for a specific combination, 
+		which will be explained in the next section. After 3 rolls a player must fill in a 
+		score and end his/her turn, after which the next player will roll the dice. This 
+		pattern continues until all scores have been filled in. If a player can not fill in any score, the player
+		must fill in 0 for an open score of his/her choice. Obviously, the player with 
+		the highest score will win the game.</p>
+	<h3 style=\"margin-bottom:5px;\">Scores</h3>
+	<p style=\"margin-top:5px;\">The upper section of the scores contain categories for each possible die face, so in 
+		total there are six categories. The score for each category is simply the number of 
+		dice rolled with this particular face times the value of the face. So for example, 
+		rolling 3-4-5-3-3 will give you a score of 9 in the Threes category.</p>
+	<p style=\"margin-top:5px;\">The lower section consists of seven different categories:
+	<ul style=\"list-style-type:circle; padding-left:17px;\">
+		<li><em>Three of a Kind</em>: At least three dice of the same face. The score is the sum of 
+			all dice.</li>
+		<li><em>Four of a Kind</em>: At least four dice of the same face. The score is the sum of 
+			all dice.</li>
+		<li><em>Full House</em>: Three dice with the same face, plus two dice with the same face. The 
+			score is 25.</li>
+		<li><em>Small Straight</em>: Four sequential dice. The score is 30.</li>
+		<li><em>Large Straight</em>: Five sequential dice. The score is 40.</li>
+		<li><em>Five of a Kind</em>: All dice have the same face. The score is 50.</li>
+		<li><em>Chance</em>: Any combination. The score is the sum of all dice.</li>
+	</ul></p>
+	</body></html>";
+"INFO_ABOUT" =
+	"<html><head></head><body style=\font-family:Helvetica;\>
+	<p style=\margin-top:5px;\>This application has been designed and developped by 
+		<a href=\http://roebert.nl\>Steven Roebert</a>. 
+		It is build as a project for the course Game Programming in the Master degree 
+		Intelligent Systems at the University of Amsterdam.</p>
+	<p style=\margin-top:5px;\>This is my first iPhone program. I have had experience with many different 
+		programming languages, but never before worked with Objective C. I want to 
+		thank Standford University, mainly Alan Cannistraro and Josh Shaffer, for creating 
+		great 
+		<a href=\http://deimos3.apple.com/WebObjects/Core.woa/Feed/itunes.stanford.edu.3124430053.03124430055\>lectures</a> 
+		on iPhone programming and making them freely available on iTunes U. Without those 
+		lectures this application would be far from complete.</p>
+	</body></html>";

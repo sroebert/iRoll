@@ -1,0 +1,13 @@
+iRoll is een dobbelsteen spel. Het doel van het spel is een zo hoog mogelijke score te behalen, door middel van het maken van dobbelsteen combinaties. Er zijn in totaal dertien verschillende combinaties, die per beurt ingevuld worden. Je kan het spel zowel alleen als met meerdere spelers spelen (maximaal acht personen). 
+
+Functies: 
+- 1-8 spelers (Pass 'n Play) 
+- Highscores 
+- Schudden om de dobbelstenen te werpen, met schud en rol geluiden 
+- Rol animatie 
+- Suggesties over welke dobbelstenen opnieuw te gooien en welke score in te vullen 
+- Makkelijke interface 
+- Multitasking, zodat je makkelijk kunt verder gaan waar je gebleven was 
+- Foto's maken van echte dobbelstenen om de worp over te nemen op de iPhone
+
+Keywords: roll, dice, yahtzee, game, spel, schud, score, dobbelsteen, highscore, iroll, irolldice
